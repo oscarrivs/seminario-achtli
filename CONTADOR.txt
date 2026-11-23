@@ -1,0 +1,17 @@
+ACTIVAR EL CONTADOR DE VISITAS
+
+El contador usa GoatCounter, un servicio ligero de estadísticas para sitios estáticos.
+Para activarlo después de publicar la página en GitHub Pages:
+
+1. Crea un sitio gratuito en https://www.goatcounter.com/ y elige un código para tu
+   sitio (por ejemplo, seminario-achtli).
+2. En las preferencias de ese sitio, habilita “Allow adding visitor counts on your
+   website”.
+3. Abre counter-config.js y cambia TU-CODIGO-DE-GOATCOUNTER por el código elegido,
+   sin añadir .goatcounter.com. Por ejemplo:
+   window.ACHTLI_GOATCOUNTER_CODE = "seminario-achtli";
+4. Guarda el archivo y vuelve a subirlo al repositorio de GitHub.
+
+El contador muestra el total de visitas de la página principal. Antes de esta
+configuración aparece un mensaje de activación pendiente. El conteo requiere conexión
+a Internet y puede no registrar navegadores que bloqueen el servicio.

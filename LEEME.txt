@@ -1,0 +1,25 @@
+SEMINARIO ACHTLI — PROPUESTA WEB ACTUALIZADA
+
+Descomprime este archivo y abre index.html en un navegador. La propuesta es
+responsiva y se adapta a celular, tableta y computadora.
+
+Incluye logotipo, menú adaptable, presentación del seminario, dos proyectos
+académicos en síntesis sin información de estudiantes, cuatro materiales
+didácticos y cuatro actividades interactivas eXeLearning (proteínas, DNA,
+microorganismos y principios activos de plantas), además de créditos y licencia.
+
+Los proyectos no incluyen datos de estudiantes. Las fotografías de procesos
+que mostraban estudiantes fueron sustituidas por imágenes de plantas o laboratorio.
+Los recursos eXe se pueden consultar dentro de la carpeta recursos y funcionan
+localmente sin conexión. Las actividades eXe conservan su licencia CC BY-SA 4.0;
+el diseño y los contenidos originales del sitio se ofrecen bajo CC BY-NC-SA 4.0.
+
+La propuesta usa fuentes del sistema y recursos locales para reducir dependencias
+externas y mantener una carga ligera.
+
+
+La página principal incluye un contador de visitas. Para activarlo, configura el
+código gratuito de GoatCounter en counter-config.js y vuelve a subir ese archivo a
+GitHub; consulta CONTADOR.txt. El contador permanece pendiente hasta completar esa
+configuración. Los cuatro materiales interactivos eXeLearning se abren en una
+nueva pestaña para conservar abierta la página principal.
